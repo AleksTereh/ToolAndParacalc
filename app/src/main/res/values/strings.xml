@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tool and Paracalc</string>
+    <string name="prizm_tool">prizm tool</string>
+    <string name="paracalc">paracalc</string>
 </resources>
